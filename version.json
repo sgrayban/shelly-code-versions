@@ -1,0 +1,45 @@
+{
+"Comment":"Last updated: 07/12/2020",
+"copyright":"© 2020 Allterco Robotics US",
+"author":"Scott Grayban",
+"icon":"<img src='https://shopusa.shelly.cloud/image/catalog/web/Shelly.png' width='20' height='20'>",
+"versions":{
+"Application":{
+"ExampleApp1":"1.4.0"
+	},
+
+"Driver":{
+"ShellyAsARoller":"2.0.2",
+"ShellyAsASwitch":"3.0.4",
+"ShellyBulb":"2.1.5",
+"ShellyHTMQTT":"3.1.1",
+"ShellyRGBW":"1.5.7",
+"Shellyrgbw2Plus":"BETA",
+"ShellyDimmer":"BETA",
+"ShellyAlarm":"1.0.1",
+"ShellyVintage":"1.0.0",
+"ShellyDuo":"1.0.0",
+"ShellyRGBWhite":"1.0.0"
+	},
+
+"UpdateInfo":{
+"Application":{
+"ExampleApp1":"<b>Update Information: </b> Updated: 08/08/2018 - Fixed typo"
+	},
+
+"Driver":{
+"ShellyAsARoller":"<br>- Fixed login bug",
+"ShellyAsASwitch":"<br>- Added support for External Sensor Hat for the Shelly1 and 1PM",
+"ShellyBulb":"<br>- Fixes for proper HUE commands (tomw)",
+"ShellyHTMQTT":"<br>- Added code to pull settings and status when the device wakes up.<br>- RSSI value is definded as exelent, good or poor. The actual rssi reading is under state variables.",
+"ShellyRGBW":"<br>- Fixes for proper HUE commands (tomw)",
+"Shellyrgbw2Plus":"<br>- BETA",
+"ShellyDimmer":"<br>- Added code that will allow you to upgrade the device firmware.",
+"ShellyAlarm":"<br>- Added code that will allow you to upgrade the device firmware.",
+"ShellyVintage":"<br>- Initial release.",
+"ShellyDuo":"<br>- Initial release.",
+"ShellyRGBWhite":"<br>- Initial release."
+	}
+     }
+  }
+}
